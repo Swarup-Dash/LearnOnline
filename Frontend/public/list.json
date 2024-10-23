@@ -1,48 +1,130 @@
-
-
-[
-{
+[{
     "id": 1,
-    "name":"Story Book",
+    "name":"Java Book",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
     "price":0,
-    "category":"Free",
+    "category":"Paid",
+    "image":"courseJava.jpg"
+},{
+    "id": 2,
+    "name":"Python",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":50,
+    "category":"Paid",
     "image":"course1.jpg"
 },
 
 {
-    "id": 2,
-    "name":"Java Book",
-    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
-    "price":50,
-    "category":"Free",
-    "image":"courseJava.jpg"
-},
-
-{
     "id": 3,
-    "name":"Python Book",
+    "name":"MySql",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
     "price":100,
-    "category":"Free",
-    "image":"courseJava.jpg"
+    "category":"Paid",
+    "image":"MySql.png"
 },
 
 {
     "id": 4,
-    "name":"React Book",
+    "name":"React",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
     "price":80,
-    "category":"Free",
-    "image":"courseJava.jpg"
+    "category":"Paid",
+    "image":"React.png"
 },
 
 {
     "id": 5,
-    "name":"MySql Book",
+    "name":"HTML",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
-    "price":40,
+    "price":0,
     "category":"Free",
-    "image":"courseJava.jpg"
+    "image":"HTML.jpg"
+},
+{
+    "id": 6,
+    "name":"CSS",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":0,
+    "category":"Free",
+    "image":"CSS.png"
+},{
+    "id": 7,
+    "name":"Version Control System",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":0,
+    "category":"Free",
+    "image":"VCS.png"
+},{
+    "id": 8,
+    "name":"DBMS",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":0,
+    "category":"Free",
+    "image":"DBMS.jpg"
+},{
+    "id": 9,
+    "name":"C Language",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":100,
+    "category":"Paid",
+    "image":"C.png"
+},{
+    "id": 10,
+    "name":"JavaScript",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":100,
+    "category":"Paid",
+    "image":"JS.jpg"
+},{
+    "id": 11,
+    "name":"Manual Testing",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":100,
+    "category":"Paid",
+    "image":"Manual.jpg"
+},{
+    "id": 12,
+    "name":"Automation Testing",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":100,
+    "category":"Paid",
+    "image":"Automation.jpeg"
+},{
+    "id": 13,
+    "name":"Docker",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":100,
+    "category":"Paid",
+    "image":"Docker.png"
+},{
+    "id": 14,
+    "name":"AWS",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":100,
+    "category":"Paid",
+    "image":"aws.png"
+},{
+    "id": 15,
+    "name":"API",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":0,
+    "category":"Free",
+    "image":"API.webp"
+},{
+    "id": 16,
+    "name":"Spring Boot",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":100,
+    "category":"Paid",
+    "image":"SpringBoot.png"
+},
+{
+    "id": 17,
+    "name":"Django",
+    "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
+    "price":100,
+    "category":"Paid",
+    "image":"Django.jpg"
 }
+
 ]
