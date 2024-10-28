@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const PaymentPage = () => {
+const PaymentPage = ({ item }) => {
   const [cardNumber, setCardNumber] = useState('');
   const [cardHolderName, setCardHolderName] = useState('');
   const [expiryDate, setExpiryDate] = useState('');
@@ -9,8 +9,14 @@ const PaymentPage = () => {
 
   const handlePayment = (e) => {
     e.preventDefault();
-    // Logic to handle the payment
     console.log("Payment processed");
+
+    // Redirect to the payment link after processing
+    if (links) {
+      window.location.href = links;
+    } else {
+      console.error("Payment link is missing.");
+    }
   };
 
   const styles = {
@@ -124,7 +130,7 @@ const PaymentPage = () => {
           onMouseOver={(e) => (e.target.style.backgroundColor = styles.buttonHover.backgroundColor)}
           onMouseOut={(e) => (e.target.style.backgroundColor = styles.button.backgroundColor)}
         >
-          Pay Now
+          <a href='https://www.w3schools.com/'>Pay Now</a>
         </button>
       </form>
     </div>

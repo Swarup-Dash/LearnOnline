@@ -4,7 +4,8 @@
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
     "price":0,
     "category":"Paid",
-    "image":"courseJava.jpg"
+    "image":"courseJava.jpg",
+    "links": "https://www.w3schools.com/java/"
 },{
     "id": 2,
     "name":"Python",
