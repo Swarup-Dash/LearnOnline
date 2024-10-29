@@ -37,7 +37,7 @@
     "id": 5,
     "name":"HTML",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
-    "price":0,
+    "price":1,
     "category":"Free",
     "image":"HTML.jpg"
 },
@@ -45,21 +45,21 @@
     "id": 6,
     "name":"CSS",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
-    "price":0,
+    "price":1,
     "category":"Free",
     "image":"CSS.png"
 },{
     "id": 7,
     "name":"Version Control System",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
-    "price":0,
+    "price":1,
     "category":"Free",
     "image":"VCS.png"
 },{
     "id": 8,
     "name":"DBMS",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
-    "price":0,
+    "price":1,
     "category":"Free",
     "image":"DBMS.jpg"
 },{
@@ -108,7 +108,7 @@
     "id": 15,
     "name":"API",
     "title":"Lorem, fhauhfi hfygei bfdhubv brhu hiowgn ffhcb kfjgo cnegr",
-    "price":0,
+    "price":1,
     "category":"Free",
     "image":"API.webp"
 },{
